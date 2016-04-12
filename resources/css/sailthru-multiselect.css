@@ -1,0 +1,15 @@
+.st-multi-select {
+	min-width: 200px;
+	width: 98%;
+	height: auto;
+	min-height: 27px;
+}
+.st-multi-select-wrapper .chzn-choices {
+	background-image: url(img/add.png);
+	background-position: 99% 99%;
+	background-repeat: no-repeat;
+	min-height: 27px;
+}
+.chzn-container-multi .chzn-choices .search-field .default {
+	min-height: 25px;
+}
